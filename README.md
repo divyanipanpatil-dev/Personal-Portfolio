@@ -4,7 +4,7 @@ Welcome to my personal portfolio website! This project showcases my skills, educ
 
 ## 🚀 Live Portfolio
 
-🔗 **Portfolio:** [View Portfolio](https://divyanipanpatil-dev.github.io/)
+🔗 **Portfolio:** [View Portfolio](https://divyanipanpatil-dev.github.io/Personal-Portfolio/)
 
 ## 👩‍💻 About Me
 
@@ -81,7 +81,7 @@ portfolio/
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/dp230041-ai/portfolio.git
+git clone https://github.com/divyanipanpatil-dev/portfolio.git
 ```
 
 2. Open the project folder:
