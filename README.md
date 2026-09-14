@@ -45,7 +45,7 @@ A QR-based digital restaurant ordering system designed to simplify the food-orde
 - Real-time order updates
 - Simple and user-friendly interface
 
-🔗 **Live Demo:** [Digital Restaurant System](https://dp230041-ai.github.io/Card-restaurant-/card.html)
+🔗 **Live Demo:** [Digital Restaurant System](https://divyanipanpatil-dev.github.io/Menu-Card/)
 
 ## 📚 Skills
 
